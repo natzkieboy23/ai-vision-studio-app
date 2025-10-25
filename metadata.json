@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Studio",
+  "description": "An interactive AI-powered image studio. Generate unique images from text prompts, or upload your own photos to analyze, get creative edit suggestions, and generate stories with the power of Gemini.",
+  "requestFramePermissions": []
+}
